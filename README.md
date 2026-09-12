@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kucukoglu925@gmail.com**
 
-- 📄 Know about my experiences [https://samikucukoglu.netlify.app/](https://samikucukoglu.netlify.app/)
+- 📄 Know about my experiences [https://samikucukoglu.netlify.app/](https://kucukoglusami.netlify.app/)
 
 - ⚡ Fun fact **I can debug a 3D printer mainboard, build an OS from scratch, and still sweat in CS2 at Faceit Level 10.**
 
